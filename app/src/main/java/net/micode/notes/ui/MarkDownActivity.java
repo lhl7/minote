@@ -2,7 +2,6 @@ package net.micode.notes.ui;
 
 import android.app.Activity;
 import android.graphics.Color;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.text.Html;
 import android.text.Spanned;
